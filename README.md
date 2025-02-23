@@ -1,4 +1,5 @@
 #InsuraPredict - Medical Insurance Cost Prediction Using Machine Learning
+
 🚀 InsuraPredict is a machine learning model designed to predict medical insurance costs based on factors like age, BMI, smoking habits, and region. By analyzing patterns in historical data, the model helps insurance providers, healthcare professionals, and individuals estimate insurance premiums with higher accuracy.
 
 Features
